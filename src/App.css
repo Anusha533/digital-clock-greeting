@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin-top: 20vh;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom, #89f7fe, #66a6ff);
+  color: #fff;
+  height: 100vh;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+  margin-top: 10px;
+}
